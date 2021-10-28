@@ -15,8 +15,8 @@ public class SencilloApplication {
 	}
         
         @GetMapping("/")
-        public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
-                return String.format("Hola %s!", name);
+        public String hello(@RequestParam(value = "name", defaultValue = "World") String nombre) {
+                return String.format("Hola %s!", nombre);
                 //http://localhost:8080/?name=esther
         }
 
