@@ -8,10 +8,11 @@ https://hesencillo.herokuapp.com/?name=pepa
 
 sencillo es un program en spring. https://start.spring.io/
 
-(para nombrar el proyecto como yo quiero en spring boot lo que cambio es Artifact, le pongo Artifact: sencillo, de dependencias: spring web
+Para nombrar el proyecto como yo quiero en spring boot lo que cambio es Artifact, le pongo Artifact: sencillo, de dependencias: spring web
 Spring Web:
-Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.)
-al importar el archivo sencillo.zip con netbeans, me sale un warning en el proyecto, boton derecho, resolve proyect problems.
+Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+
+Al importar el archivo sencillo.zip con netbeans, me sale un warning en el proyecto, boton derecho, resolve proyect problems.
 --------------------------------------------------------------
 proyecto subido a github
 para subier a github:
