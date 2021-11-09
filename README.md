@@ -34,5 +34,19 @@ local branches, master (marcar)
 select configured git repository location
 origin:https://USUARIOGITHUB@github.com/USUARIOGITHUB/sencillo.git
 next
+------------
+En net beans, sencillo boton derecho propiedades, run, main class: com.example.sencillo.SencilloApplication
+------------
+pom.xml, lo unico que hago aqui es comentar lo de java version 11, no toco nada mas, esto lo hago por que si no, no funciona el proyecto en heroku
+<!--
+        <properties>
+		<java.version>11</java.version>
+	</properties>
+-->  
+
+-------------
+Recordar que para hacer los test en NetBeans
+boton derecho en archivo, tools, create update test.
+--------------------------------
 
 
