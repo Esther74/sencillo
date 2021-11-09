@@ -32,7 +32,7 @@ local branches, master (marcar)
 
 5 en la pagina de github se puede escribir un readme y traerlo al proyecto en netbeans con proyecto, boton derecho, git, remote, pull
 select configured git repository location
-origin:https://Esther74@github.com/USUARIOGITHUB/sencillo.git
+origin:https://USUARIOGITHUB@github.com/USUARIOGITHUB/sencillo.git
 next
 
 
